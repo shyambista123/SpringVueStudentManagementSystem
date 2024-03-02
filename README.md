@@ -10,7 +10,7 @@ This project is a simple CRUD application that allows users to manage student re
 
 - **Delete Student:** Remove existing student records from the system.
 
-- **Update Student:** Modify information for existing students, such as updating grades or age.
+- **Update Student:** Modify information for existing students, such as updating name, email.
 
 - **View Students:** Display a list of all students with their respective details.
 
